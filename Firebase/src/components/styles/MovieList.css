@@ -1,0 +1,9 @@
+.listado-pelis {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.listado-pelis img {
+    width: 250px;
+    height: 150px;
+}
